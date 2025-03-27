@@ -1,5 +1,5 @@
 # gnuplot-learn
-Gnuplot代码练习
+Gnuplot 代码练习
 
 ![图一](./目标/图一.png)
 
